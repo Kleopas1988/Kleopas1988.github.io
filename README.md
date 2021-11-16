@@ -1,6 +1,6 @@
 ## Welcome to Kay survey like site
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNBnYnX0zbWV9hpO0SnzXbd2hfxBxpI7D1F6kZCY67uZBGXA/viewform?embedded=true" width="640" height="2799" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNBnYnX0zbWV9hpO0SnzXbd2hfxBxpI7D1F6kZCY67uZBGXA/viewform?embedded=true" width="100%" height="2799" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 You can use the [editor on GitHub](https://github.com/Kleopas1988/Kleopas1988.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
